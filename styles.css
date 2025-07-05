@@ -1,0 +1,11 @@
+body{
+    background-color: #1e1e1e;
+    color: white;
+}
+.stButton>button{
+    background-color: #4fCA50;
+    color: white;
+}
+h1,h2,h3{
+    color: #ff4b4b;
+}
